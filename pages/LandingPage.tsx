@@ -90,7 +90,7 @@ export default function LandingPage() {
           >
             <div className="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-purple-500/10 border border-purple-500/20 text-purple-300 text-xs font-medium mb-6">
               <Star size={12} className="fill-purple-400 text-purple-400" />
-              Built for the GTA V Roleplay Community
+              Built with love
             </div>
           </motion.div>
 
@@ -110,9 +110,7 @@ export default function LandingPage() {
             transition={{ duration: 0.6, delay: 0.2 }}
             className="text-lg md:text-xl text-slate-400 max-w-2xl mx-auto mb-10 leading-relaxed"
           >
-            OZFolio is the premium portfolio platform built for photographers and visual artists
-            in the GTA V roleplay community. Showcase your cinematic captures, organize your galleries,
-            and share your work with the world.
+            OZFolio is a premium portfolio platform designed for photographers and visual artists to showcase their work with style. Build a professional portfolio, organize your galleries, and present your photography in a clean, modern space that puts your work first.
           </motion.p>
 
           <motion.div
@@ -332,7 +330,7 @@ export default function LandingPage() {
               <span className="font-bold text-white">OZ<span className="oz-text-gradient-subtle">Folio</span></span>
             </div>
             <p className="text-sm text-slate-600 text-center">
-              Built for the GTA V roleplay photography community. Not affiliated with Rockstar Games.
+              This is a ProdigyRP based website. All content is fictional and for in-game use only.
             </p>
             <div className="flex items-center gap-5 text-sm text-slate-600">
               <a href="#" className="hover:text-slate-400 transition-colors">Privacy</a>
